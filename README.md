@@ -4,8 +4,7 @@ Create a classification model that will predict which subreddit the post is from
 
 ## Executive Summary:
 
-Many people assume that Psychology and Sociology subreddit pages are very similar to each other. Through this reddit classification we can showcase how different these 2 subreddit pages. This can be shown by how precisely we predict the subreddit category based on the post.  
-
+Many people assume that Psychology and Sociology subreddit pages are very similar to each other. Through this reddit classification we can showcase how different these 2 subreddit pages are.
 
 
 ## Conclusion: 
